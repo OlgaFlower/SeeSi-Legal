@@ -1,6 +1,6 @@
 # Datenschutzerklärung
 
-**Zuletzt aktualisiert:** 2026-08-25
+**Zuletzt aktualisiert:** 2026-09-19
 
 > **Hinweis:** Diese Version der Datenschutzerklärung ist eine Übersetzung zur Bequemlichkeit der Nutzer.  
 > Im Falle von Abweichungen oder Auslegungsunterschieden hat die englischsprachige Version des Dokuments Vorrang.
@@ -29,6 +29,7 @@ SeeSi kann die folgenden Datenkategorien verarbeiten:
 - Diagnosedaten, wie z. B. Absturzberichte;
 - App-Analysedaten, wie z. B. aufgerufene Bildschirme und allgemeine Funktionsnutzung, und nur dann, wenn Sie Analysen eingeschaltet haben;
 - abonnements- und kaufbezogene Daten, die zur Unterstützung von In-App-Käufen und Abonnements erforderlich sind.
+- Problemmeldungen, die Sie in „Soforthilfe“ senden, wie in Abschnitt 5 beschrieben.
 
 SeeSi verarbeitet Ihre privaten Notizen, Selbstreflexionen, Antworten auf Fragebögen oder Beziehungsaufzeichnungen nicht auf externen Servern zu Analyse- oder Profiling-Zwecken.
 
@@ -63,7 +64,25 @@ Analysen erfassen außerdem eine ungefähre Region, die aus Ihrer IP-Adresse abg
 
 ---
 
-## 5. Wie wir Daten verwenden
+## 5. „Soforthilfe“ und Ihr Standort
+
+„Soforthilfe“ zeigt Notrufnummern und Hilfsangebote für das Land, in dem Sie sich befinden. Sie können den Bereich auch ohne Konto öffnen.
+
+**Ihr Standort.** Wenn Sie es erlauben, verwendet SeeSi Ihren ungefähren Standort — nicht Ihre genaue Position —, um festzustellen, in welchem Land Sie sind und, für die wenigen Städte mit örtlichen Angeboten, in welcher Stadt. Das geschieht auf Ihrem Gerät, mit Kartendaten, die Teil der App sind. Ihr Standort wird weder an uns noch an jemand anderen gesendet und nicht gespeichert. SeeSi speichert nur das ermittelte Land und die ermittelte Stadt, auf Ihrem Gerät, damit beim nächsten Mal die richtigen Nummern erscheinen.
+
+SeeSi fragt Ihren Standort nur ab, solange „Soforthilfe“ geöffnet ist, oder wenn Sie auf „Meinen Standort verwenden“ tippen — nie im Hintergrund und nie beim Start der App. In Grenznähe rät die App nicht: Sie fragt, in welchem Land Sie sind, und Ihre Antwort wird auf Ihrem Gerät gespeichert. Ein Land, das Sie selbst wählen, wird ebenfalls nur auf Ihrem Gerät gespeichert.
+
+Sie können den Standort jederzeit in den iOS-Einstellungen ausschalten. „Soforthilfe“ verwendet dann die Region Ihres Geräts oder ein Land, das Sie wählen. Wenn der Standort nicht erlaubt ist, werden das ermittelte Land und die ermittelte Stadt gelöscht; beim Löschen Ihres Kontos werden sie ebenfalls gelöscht.
+
+**Ein Problem melden.** Wenn Sie uns mitteilen, dass ein Angebot nicht funktioniert hat, sendet SeeSi, um welches Angebot es ging, das angezeigte Land, den von Ihnen gewählten Grund, einen von Ihnen eingegebenen Text, die App-Version und den Zeitpunkt. Die Meldung enthält weder Ihren Namen noch Ihre E-Mail-Adresse noch Ihr Konto und ist nicht mit Ihnen verknüpft. Zum Senden müssen Sie angemeldet sein.
+
+**Andere Websites.** „Soforthilfe“ verlinkt auf Websites anderer Organisationen, etwa von Hilfetelefonen, Schutzunterkünften und Außenministerien. Sobald Sie eine davon öffnen, gilt dort die Datenschutzerklärung der jeweiligen Organisation.
+
+**Analysen.** Wenn Analysen eingeschaltet sind, wird erfasst, welche Bildschirme von „Soforthilfe“ Sie öffnen, welche Art von Hilfe Sie ansehen (zum Beispiel Hilfe für ein Kind), ob es sich um eine Notrufnummer, ein nationales Hilfetelefon oder eine andere Organisation handelte, ob Sie Ihren Standort verwendet oder ein Land gewählt haben, und das angezeigte Land. Nie erfasst wird, welches einzelne Angebot oder welche Nummer Sie kontaktiert haben, und nie Ihre Stadt.
+
+---
+
+## 6. Wie wir Daten verwenden
 
 Wir verwenden die oben beschriebenen begrenzten Daten ausschließlich, um:
 
@@ -79,7 +98,7 @@ Wir verwenden Ihre privaten In-App-Inhalte nicht für Marketingzwecke.
 
 ---
 
-## 6. Speicherung und Verarbeitung
+## 7. Speicherung und Verarbeitung
 
 Ihre privaten App-Inhalte, einschließlich Notizen, Reflexionen, Antworten und beziehungsbezogenen Einträgen, werden lokal auf Ihrem Gerät gespeichert.
 
@@ -87,7 +106,7 @@ Begrenzte Konto-, Analyse-, Diagnose- und abonnementsbezogene Daten können von 
 
 ---
 
-## 7. Dienste Dritter
+## 8. Dienste Dritter
 
 SeeSi kann vertrauenswürdige Drittanbieter für Zwecke einsetzen wie:
 
@@ -100,7 +119,7 @@ Diese Dienste verarbeiten nur die Daten, die zur Erfüllung ihrer Funktion erfor
 
 ---
 
-## 8. Datenkontrolle
+## 9. Datenkontrolle
 
 Sie behalten die Kontrolle über Ihre Daten.
 
@@ -110,15 +129,16 @@ Innerhalb der App haben Sie die Möglichkeit:
 - Ihr Konto zu löschen;
 - sich von Ihrem Konto abzumelden;
 - den Zugriff mit einem PIN-Code zu schützen;
-- App-Analysen ein- oder auszuschalten.
+- App-Analysen ein- oder auszuschalten;
+- den Standort für „Soforthilfe“ in den iOS-Einstellungen ein- oder auszuschalten.
 
-Wenn Sie Ihr Konto löschen, werden Ihre lokal gespeicherten Inhalte einschließlich der hinzugefügten Personen und ihrer Fotos von Ihrem Gerät entfernt.
+Wenn Sie Ihr Konto löschen, werden Ihre lokal gespeicherten Inhalte von Ihrem Gerät entfernt, einschließlich der hinzugefügten Personen und ihrer Fotos sowie des von „Soforthilfe“ gespeicherten Landes und der gespeicherten Stadt.
 
 Wenn Sie die App löschen, werden lokal gespeicherte App-Inhalte von Ihrem Gerät entfernt, Ihr Konto oder serverseitig gespeicherte Kontozugangsdaten werden dadurch jedoch nicht automatisch gelöscht.
 
 ---
 
-## 9. Datenschutz für Kinder
+## 10. Datenschutz für Kinder
 
 SeeSi ist nicht für Kinder unter 13 Jahren bestimmt.
 
@@ -128,7 +148,7 @@ Wenn Sie der Ansicht sind, dass ein Kind unter 13 Jahren personenbezogene Inform
 
 ---
 
-## 10. Änderungen an dieser Erklärung
+## 11. Änderungen an dieser Erklärung
 
 Diese Datenschutzerklärung kann von Zeit zu Zeit aktualisiert werden.
 
@@ -136,7 +156,7 @@ Diese Datenschutzerklärung kann von Zeit zu Zeit aktualisiert werden.
 
 ---
 
-## 11. Kontakt
+## 12. Kontakt
 
 Wenn Sie Fragen zu dieser Datenschutzerklärung haben, kontaktieren Sie uns bitte:
 
