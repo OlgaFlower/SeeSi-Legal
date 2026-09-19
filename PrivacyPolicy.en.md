@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated:** 2026-08-25
+**Last updated:** 2026-09-19
 
 ---
 
@@ -26,6 +26,7 @@ SeeSi may process the following categories of data:
 - diagnostic data, such as crash reports;
 - app analytics data, such as screens viewed and general feature usage, and only if you have turned analytics on;
 - subscription and purchase-related data required to support in-app purchases and subscriptions.
+- problem reports you choose to send from Help Now, as described in section 5.
 
 SeeSi does not process your private notes, self-reflections, questionnaire answers, or relationship records on external servers for analytics or profiling.
 
@@ -60,7 +61,25 @@ Analytics also records an approximate region, worked out from your IP address, a
 
 ---
 
-## 5. How We Use Data
+## 5. Help Now and Your Location
+
+Help Now shows emergency numbers and support services for the country you are in. You can open it without an account.
+
+**Your location.** If you allow it, SeeSi uses your approximate location — not your exact position — to work out which country you are in and, for the few cities that have local services, which city. This happens on your device, with map data that is part of the app. Your location is never sent to us or to anyone else, and it is never stored. SeeSi saves only the country and the city it worked out, on your device, so that the right numbers appear the next time.
+
+SeeSi asks for your location only while Help Now is open, or when you tap "Use my location" — never in the background and never when the app starts. Close to a border the app does not guess: it asks which country you are in, and your answer is saved on your device. A country you choose yourself is also saved only on your device.
+
+You can turn location off at any time in iOS Settings. Help Now then uses your device's region, or a country you choose. When location is not allowed, the country and city SeeSi had worked out are deleted; deleting your account deletes them as well.
+
+**Report a problem.** If you tell us that a service did not work, SeeSi sends which service it was, the country shown, the reason you chose, any text you typed, the app version and the time. The report does not contain your name, your email address or your account, and it is not linked to you. You need to be signed in to send one.
+
+**Other websites.** Help Now links to the websites of other organisations, such as helplines, shelters and foreign ministries. Once you open one of them, that organisation's own privacy policy applies there.
+
+**Analytics.** If analytics is on, it records which Help Now screens you open, which kind of help you look at (for example, help for a child), whether the service was an emergency number, a national helpline or another organisation, whether you used your location or chose a country, and the country shown. It never records which particular service or number you contacted, and never your city.
+
+---
+
+## 6. How We Use Data
 
 We use the limited data described above only to:
 
@@ -76,7 +95,7 @@ We do not use your private in-app content for marketing.
 
 ---
 
-## 6. Storage and Processing
+## 7. Storage and Processing
 
 Your private app content, including notes, reflections, answers, and relationship-related entries, is stored locally on your device.
 
@@ -84,7 +103,7 @@ Limited account, analytics, diagnostic, and subscription-related data may be pro
 
 ---
 
-## 7. Third-Party Services
+## 8. Third-Party Services
 
 SeeSi may use third-party service providers for purposes such as:
 
@@ -97,7 +116,7 @@ These services process only the data necessary to perform their function.
 
 ---
 
-## 8. Data Control
+## 9. Data Control
 
 You remain in control of your data.
 
@@ -107,15 +126,16 @@ Within the app, you may be able to:
 - delete your account;
 - log out of your account;
 - protect access using a PIN code;
-- turn app analytics on or off.
+- turn app analytics on or off;
+- turn location for Help Now on or off, in iOS Settings.
 
-Deleting your account removes your locally stored content, including the people you added and their photos, from your device.
+Deleting your account removes your locally stored content from your device, including the people you added and their photos, and the country and city Help Now had saved.
 
 Deleting the app removes locally stored app content from your device, but it does not automatically delete your account or server-side account access data.
 
 ---
 
-## 9. Children's Privacy
+## 10. Children's Privacy
 
 SeeSi is not intended for children under the age of 13.
 
@@ -125,7 +145,7 @@ If you believe that a child under 13 has provided personal information through t
 
 ---
 
-## 10. Changes to This Policy
+## 11. Changes to This Policy
 
 This Privacy Policy may be updated from time to time.
 
@@ -133,7 +153,7 @@ Any changes will be published at this location. Continued use of the app after a
 
 ---
 
-## 11. Contact
+## 12. Contact
 
 If you have questions about this Privacy Policy, please contact:
 
