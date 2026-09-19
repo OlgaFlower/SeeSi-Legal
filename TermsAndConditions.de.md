@@ -1,6 +1,6 @@
 # Nutzungsbedingungen
 
-**Zuletzt aktualisiert:** 2026-08-25
+**Zuletzt aktualisiert:** 2026-09-19
 
 > **Hinweis:** Diese Version der Nutzungsbedingungen ist eine Übersetzung zur Bequemlichkeit der Nutzer.  
 > Im Falle von Abweichungen oder Auslegungsunterschieden hat die englischsprachige Version des Dokuments Vorrang.
@@ -27,9 +27,9 @@ Mit der Nutzung der App versichern Sie, dass Sie mindestens 13 Jahre alt und nac
 
 ## 3. Konten
 
-Für den Zugang zu SeeSi und die Nutzung der App ist ein Konto erforderlich.
+Für die App selbst ist ein Konto erforderlich. Sie müssen sich registrieren oder anmelden, um Personen hinzuzufügen, Fragebögen zu beantworten und Ihre Ergebnisse zu sehen.
 
-Sie müssen sich registrieren oder anmelden, bevor Sie die App nutzen.
+**„Soforthilfe“ ist die Ausnahme.** Die dort aufgeführten Notrufnummern und Hilfsangebote lassen sich ohne Konto und ohne Entsperren der App öffnen — vom Anmeldebildschirm und vom Sperrbildschirm aus. Nur für die Meldung, dass ein Angebot nicht funktioniert hat, ist ein Konto nötig.
 
 Sie sind dafür verantwortlich, Ihre Zugangsdaten vertraulich zu behandeln, und für alle Aktivitäten, die unter Ihrem Konto stattfinden.
 
@@ -42,6 +42,12 @@ SeeSi wird als Werkzeug zur Selbstreflexion und für Einsichten über Beziehunge
 Die App soll Nutzerinnen und Nutzern helfen, über Interaktionsmuster, persönliche Eindrücke und Erfahrungen in Beziehungen nachzudenken.
 
 SeeSi bietet keine medizinische, psychologische, psychiatrische, therapeutische, rechtliche oder Krisenberatung.
+
+**„Soforthilfe“.** „Soforthilfe“ führt Notrufnummern und Hilfsangebote auf, die andere Organisationen betreiben — Polizei und Rettungsdienste, nationale Hilfetelefone, Schutzunterkünfte und Außenministerien. SeeSi betreibt keines davon und ist selbst kein Krisendienst.
+
+Jeder Eintrag stammt von der Seite des Anbieters selbst oder von der zuständigen Behörde und trägt das Datum der letzten Prüfung. Dennoch können sich Nummern, Öffnungszeiten und die Sprachen eines Angebots ohne Ankündigung ändern, und ein Angebot kann besetzt oder nicht erreichbar sein. SeeSi kann nicht dafür einstehen, dass eine Nummer funktioniert oder dass Ihnen geholfen wird.
+
+Rufen Sie im Notfall die Notrufnummer Ihres Landes direkt an. „Soforthilfe“ zeigt die Nummer an und übergibt den Anruf an Ihr Telefon; die App nimmt für Sie mit niemandem Kontakt auf und weiß nicht, dass Sie Hilfe brauchen.
 
 SeeSi stellt keine Diagnose zu einer Person oder einer Beziehung.
 
