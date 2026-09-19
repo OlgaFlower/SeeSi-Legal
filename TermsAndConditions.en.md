@@ -1,6 +1,6 @@
 # Terms & Conditions
 
-**Last updated:** 2026-08-25
+**Last updated:** 2026-09-19
 
 ---
 
@@ -24,9 +24,9 @@ By using the app, you represent that you are at least 13 years old and legally p
 
 ## 3. Accounts
 
-An account is required to access and use SeeSi.
+An account is required for the app itself. You must register or sign in to add people, answer questionnaires and see your results.
 
-You must register or sign in before using the app.
+**Help Now is the exception.** The emergency numbers and support services it lists can be opened without an account and without unlocking the app, from the sign-in screen and from the lock screen. Only reporting that a service did not work needs an account.
 
 You are responsible for maintaining the confidentiality of your account credentials and for all activity that occurs under your account.
 
@@ -39,6 +39,12 @@ SeeSi is provided as a self-reflection and relationship insight tool.
 The app is intended to help users reflect on interaction patterns, personal impressions, and relationship-related experiences.
 
 SeeSi does not provide medical, psychological, psychiatric, therapeutic, legal, or crisis advice.
+
+**Help Now.** Help Now lists emergency numbers and support services that other organisations run — police and ambulance services, national helplines, shelters, and foreign ministries. SeeSi operates none of them and is not itself a crisis service.
+
+Every entry is taken from the operator's own page or from the responsible authority, and each one carries the date it was last checked. Even so, numbers, opening hours and the languages a service speaks can change without notice, and a service can be busy or unavailable. SeeSi cannot guarantee that a number works or that help will be given.
+
+In an emergency, call your country's emergency number directly. Help Now shows the number and hands the call to your phone; it does not contact anyone on your behalf and it does not know that you need help.
 
 SeeSi does not diagnose any person or relationship.
 
