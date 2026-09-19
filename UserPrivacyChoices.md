@@ -1,6 +1,6 @@
 # User Privacy Choices
 
-_Last updated: 2026-08-25_
+_Last updated: 2026-09-19_
 
 SeeSi provides in-app controls that let you manage your data, what is shared, and who can open the app.
 
@@ -20,14 +20,34 @@ Open **Settings** in the app to find these options.
 
 **What is sent when it is on**
 - Which screens are opened and which features are used — for example, that a questionnaire was completed.
+- From Help Now: which kind of help you looked at (for example, help for a child), whether a service was an emergency number, a national helpline or another organisation, whether you used your location or chose a country, and the country being shown.
 
 **What is never sent**
 - Names, photos, or anything else you typed.
 - Your questionnaire answers or the results calculated from them.
 - Any information about the people you added.
+- Which particular service or number you contacted from Help Now, or which city you are in.
 
 **Please note**
 - Crash diagnostics work separately from this switch and stay active. A crash report describes the failure, the device model, and the operating system version. It contains none of your content.
+
+---
+
+## Location
+
+**Menu path:** Settings → Privacy → **Location**
+
+**What this does**
+- Shows whether Help Now may use your approximate location. Before you answer for the first time, this asks you. Afterwards it opens iOS Settings, because that is where the answer lives.
+- With location on, Help Now works out which country you are in — and, for the few cities that have local services, which city. This happens on your device, using maps that are part of the app.
+- With location off, Help Now uses your device's region, or a country you choose yourself.
+
+**What is sent**
+- Nothing. Your coordinates never leave the phone, and they are not stored anywhere.
+
+**What is saved on this device**
+- The country and city that were worked out, and a country you choose yourself, so that the right numbers appear the next time.
+- When location is not allowed, the country and city that came from it are deleted. Deleting your account deletes them as well.
 
 ---
 
@@ -51,6 +71,7 @@ Open **Settings** in the app to find these options.
 
 **What this does not do**
 - It does **not** delete your account.
+- It does **not** clear the country and city Help Now saved, or your answer about analytics.
 
 ---
 
@@ -61,6 +82,7 @@ Open **Settings** in the app to find these options.
 **What this does**
 - Permanently deletes your SeeSi account and account access data stored on our servers.
 - Removes locally stored app data on this device: your profile, the people you added, their photos, your answers, and calculated results.
+- Removes the country and city Help Now had saved on this device.
 - Removes the App Lock PIN from this device.
 - Signs you out.
 
