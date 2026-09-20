@@ -1,6 +1,6 @@
 # Datenschutzerklärung
 
-**Zuletzt aktualisiert:** 2026-09-19
+**Zuletzt aktualisiert:** 2026-09-20
 
 > **Hinweis:** Diese Version der Datenschutzerklärung ist eine Übersetzung zur Bequemlichkeit der Nutzer.  
 > Im Falle von Abweichungen oder Auslegungsunterschieden hat die englischsprachige Version des Dokuments Vorrang.
@@ -74,6 +74,8 @@ SeeSi fragt Ihren Standort nur ab, solange „Soforthilfe“ geöffnet ist, oder
 
 Sie können den Standort jederzeit in den iOS-Einstellungen ausschalten. „Soforthilfe“ verwendet dann die Region Ihres Geräts oder ein Land, das Sie wählen. Wenn der Standort nicht erlaubt ist, werden das ermittelte Land und die ermittelte Stadt gelöscht; beim Löschen Ihres Kontos werden sie ebenfalls gelöscht.
 
+**Welche Botschaft.** „Soforthilfe“ kann die Botschaft eines Landes zeigen, das Sie nennen, und Sie können mehrere nennen. Sie wählen das auf dem Bildschirm selbst. SeeSi speichert nur diese Ländercodes, auf Ihrem Gerät, und sendet sie nirgendwohin. SeeSi fragt nicht nach Ihrer Staatsangehörigkeit und speichert sie nicht.
+
 **Ein Problem melden.** Wenn Sie uns mitteilen, dass ein Angebot nicht funktioniert hat, sendet SeeSi, um welches Angebot es ging, das angezeigte Land, den von Ihnen gewählten Grund, einen von Ihnen eingegebenen Text, die App-Version und den Zeitpunkt. Die Meldung enthält weder Ihren Namen noch Ihre E-Mail-Adresse noch Ihr Konto und ist nicht mit Ihnen verknüpft. Zum Senden müssen Sie angemeldet sein.
 
 **Andere Websites.** „Soforthilfe“ verlinkt auf Websites anderer Organisationen, etwa von Hilfetelefonen, Schutzunterkünften und Außenministerien. Sobald Sie eine davon öffnen, gilt dort die Datenschutzerklärung der jeweiligen Organisation.
@@ -132,7 +134,7 @@ Innerhalb der App haben Sie die Möglichkeit:
 - App-Analysen ein- oder auszuschalten;
 - den Standort für „Soforthilfe“ in den iOS-Einstellungen ein- oder auszuschalten.
 
-Wenn Sie Ihr Konto löschen, werden Ihre lokal gespeicherten Inhalte von Ihrem Gerät entfernt, einschließlich der hinzugefügten Personen und ihrer Fotos sowie des von „Soforthilfe“ gespeicherten Landes und der gespeicherten Stadt.
+Wenn Sie Ihr Konto löschen, werden Ihre lokal gespeicherten Inhalte von Ihrem Gerät entfernt: die hinzugefügten Personen und ihre Fotos sowie alles, was „Soforthilfe“ gespeichert hat — das Land, die Stadt und die Länder, deren Botschaften Sie sehen wollten.
 
 Wenn Sie die App löschen, werden lokal gespeicherte App-Inhalte von Ihrem Gerät entfernt, Ihr Konto oder serverseitig gespeicherte Kontozugangsdaten werden dadurch jedoch nicht automatisch gelöscht.
 
