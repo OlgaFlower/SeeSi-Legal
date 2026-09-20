@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated:** 2026-09-19
+**Last updated:** 2026-09-20
 
 ---
 
@@ -71,6 +71,8 @@ SeeSi asks for your location only while Help Now is open, or when you tap "Use m
 
 You can turn location off at any time in iOS Settings. Help Now then uses your device's region, or a country you choose. When location is not allowed, the country and city SeeSi had worked out are deleted; deleting your account deletes them as well.
 
+**Whose embassy.** Help Now can show the embassy of a country you name, and you can name more than one. You choose this on the screen itself. SeeSi saves only those country codes, on your device, and sends them nowhere. SeeSi does not ask for your citizenship and does not store it.
+
 **Report a problem.** If you tell us that a service did not work, SeeSi sends which service it was, the country shown, the reason you chose, any text you typed, the app version and the time. The report does not contain your name, your email address or your account, and it is not linked to you. You need to be signed in to send one.
 
 **Other websites.** Help Now links to the websites of other organisations, such as helplines, shelters and foreign ministries. Once you open one of them, that organisation's own privacy policy applies there.
@@ -129,7 +131,7 @@ Within the app, you may be able to:
 - turn app analytics on or off;
 - turn location for Help Now on or off, in iOS Settings.
 
-Deleting your account removes your locally stored content from your device, including the people you added and their photos, and the country and city Help Now had saved.
+Deleting your account removes your locally stored content from your device: the people you added and their photos, and what Help Now had saved — the country, the city, and the countries whose embassies you chose to see.
 
 Deleting the app removes locally stored app content from your device, but it does not automatically delete your account or server-side account access data.
 
