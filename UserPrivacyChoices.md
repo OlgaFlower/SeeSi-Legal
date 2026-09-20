@@ -1,6 +1,6 @@
 # User Privacy Choices
 
-_Last updated: 2026-09-19_
+_Last updated: 2026-09-20_
 
 SeeSi provides in-app controls that let you manage your data, what is shared, and who can open the app.
 
@@ -51,6 +51,22 @@ Open **Settings** in the app to find these options.
 
 ---
 
+## Whose embassy
+
+**Menu path:** Help Now → **Your citizenship**
+
+**What this does**
+- Help Now can show the embassy of a country you name, and you can name more than one. Only those embassies are then shown.
+- "All countries" at the top of the list clears the choice in one tap.
+
+**What is sent**
+- Nothing. The choice stays on this device.
+
+**Please note**
+- SeeSi does not ask for your citizenship and does not store it. This is a setting for one screen, and it works without an account.
+
+---
+
 ## App Lock
 
 **Menu path:** Settings → Security → **App Lock**
@@ -71,7 +87,7 @@ Open **Settings** in the app to find these options.
 
 **What this does not do**
 - It does **not** delete your account.
-- It does **not** clear the country and city Help Now saved, or your answer about analytics.
+- It does **not** clear what Help Now saved, or your answer about analytics.
 
 ---
 
@@ -82,7 +98,7 @@ Open **Settings** in the app to find these options.
 **What this does**
 - Permanently deletes your SeeSi account and account access data stored on our servers.
 - Removes locally stored app data on this device: your profile, the people you added, their photos, your answers, and calculated results.
-- Removes the country and city Help Now had saved on this device.
+- Removes what Help Now had saved on this device: the country, the city, and the countries whose embassies you chose to see.
 - Removes the App Lock PIN from this device.
 - Signs you out.
 
